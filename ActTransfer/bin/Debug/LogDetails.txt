@@ -1,0 +1,2 @@
+Document created successfully : Cardcode : C20000   DocNum  --> 67
+Document created successfully : Cardcode : C20000   DocNum  --> 68

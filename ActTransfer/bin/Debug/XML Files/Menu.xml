@@ -1,0 +1,9 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="1536" Image="" Position="4" String="VAT Transfer Entry"
+      Type="1" UniqueID="mnu_OAPT">
+      </Menu>
+    </action>
+  </Menus>
+</Application>

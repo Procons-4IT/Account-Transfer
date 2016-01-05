@@ -1,0 +1,248 @@
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\bin\Debug\ActTransfer.exe
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\bin\Debug\ActTransfer.pdb
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\bin\Debug\ActTransfer.xml
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.Resources.resources
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.exe
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.xml
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.pdb
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Release\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Release\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.Resources.resources
+C:\Users\Administrator\Desktop\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Release\ActTransfer.exe
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Release\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Release\ActTransfer.xml
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Release\Interop.Scripting.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Release\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Release\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.exe
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.xml
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Release\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer\ActTransfer\ActTransfer\ActTransfer\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\bin\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\bin\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\bin\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ActTransfer.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140815\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140815\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140815\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140815\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140815\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140815\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140915\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140915\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140915\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140915\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140915\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140915\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140916 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140917 Ver 1.0.4\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140918 Ver 1.0.5\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.6\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20140922 Ver 1.0.7\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\ActTransfer_20141001 Ver 1.0.8\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\bin\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\bin\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\bin\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ActTransfer.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20150324 Ver 1.0.2_9.0\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\bin\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\bin\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\bin\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ActTransfer.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Deliveries\20150525_Account Transfer 1.0.2\ActTransfer_20150525 Ver 1.0.2\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.exe
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.xml
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.pdb
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.exe
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.pdb
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.xml
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.Resources.resources
+D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
