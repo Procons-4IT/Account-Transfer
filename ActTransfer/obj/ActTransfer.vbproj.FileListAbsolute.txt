@@ -232,17 +232,3 @@ G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfe
 G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
 G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.Resources.resources
 G:\International Projects_SAP9.0\Procons-4IT\Lebanese VAT Rule\Source\ActTransfer_20151117 Ver 1.0.3\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.exe
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.xml
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.pdb
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.exe
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.pdb
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\ActTransfer.xml
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ResolveAssemblyReference.cache
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.ResolveComReference.cache
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.Resources.resources
-D:\Project\procons4it\Account Transfer\ActTransfer_20151117 Ver 1.0.3\obj\Debug\ActTransfer.vbproj.GenerateResource.Cache
